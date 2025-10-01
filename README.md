@@ -31,18 +31,10 @@ Currently focusing on **Django, DRF, Celery + RabbitMQ, Docker (CLI)**.
 ---
 
 ## ✨ Fun Fact
-I once automated my morning coffee routine ☕ — small scripts save time!
+While learning, I never truly lose — I store my mistakes as deep knowledge 🧩.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=alice8180&show_icons=true&theme=dark" />
-  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alice8180&layout=compact&theme=dark" />
-</p>
-
----
 
 ## 📫 Contact
 
